@@ -1,0 +1,4 @@
+Student,nab,1,1
+Student,star,2,23
+Teacher,teach,5,dep
+Administrator,adme,12,sd
