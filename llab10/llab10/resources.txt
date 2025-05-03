@@ -1,3 +1,0 @@
-res,1
-fefa,2
-lib,11

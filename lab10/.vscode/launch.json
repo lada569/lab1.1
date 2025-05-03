@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug lab9",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/lllab10.out",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb"
+      
+    }
+  ]
+}

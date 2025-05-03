@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build lab9",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-std=c++17",
+        "lllab9.cpp",
+        "-o",
+        "lllab9.out"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
